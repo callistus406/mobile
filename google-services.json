@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406421155604",
+    "project_id": "first-aid-73f44",
+    "storage_bucket": "first-aid-73f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406421155604:android:3dc2708860a749ca6ddc01",
+        "android_client_info": {
+          "package_name": "com.callistus406.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1mMSKzjJZb57Sj7ZtBuD6lxq6UTGh80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

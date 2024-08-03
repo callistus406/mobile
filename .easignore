@@ -1,0 +1,15 @@
+.cache
+.zoom
+.local
+.config
+Android
+Android/Sdk
+node_modules
+.git
+tmp
+.vscode
+.idea
+*.iml
+.DS_Store
+.gradle
+eclipse-installer
